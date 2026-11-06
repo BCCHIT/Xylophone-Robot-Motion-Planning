@@ -6,7 +6,7 @@
 
 ![木琴机器人真机演奏，BCCHIT 水印](assets/hero.jpg)
 
-**[▶ 播放真机演奏视频（保留声音）](assets/performance.mp4)**
+**[▶ 播放真机演奏视频（保留声音）](https://github.com/user-attachments/assets/afda2fef-93ba-43cd-b256-202cc22fe093)**
 
 ## 项目概览
 
@@ -44,7 +44,7 @@ Simulink 检查与历史真机演奏
 
 ## 实机效果
 
-![木琴演奏短片，BCCHIT 水印](assets/demo.gif)
+https://github.com/user-attachments/assets/afda2fef-93ba-43cd-b256-202cc22fe093
 
 ## 值得关注的实现
 
