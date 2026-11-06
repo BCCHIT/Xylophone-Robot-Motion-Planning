@@ -1,0 +1,9 @@
+output/
+slprj/
+*.slxc
+*.asv
+*.autosave
+*.slx.autosave
+.DS_Store
+Thumbs.db
+.preview/
